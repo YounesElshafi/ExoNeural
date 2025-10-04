@@ -12,7 +12,7 @@
 ---
 
 ## 🌍 Live Demo
-🔗 [Try ExoNeural Online](https://exoneuralapp2.netlify.app/)
+🚀 **[👉 Click Here to Try ExoNeural Online](https://exoneuralapp2.netlify.app/)** 🚀  
 
 ![ExoNeural Demo](Gif/Gif.gif)
 
