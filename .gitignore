@@ -73,18 +73,6 @@ ehthumbs.db
 Thumbs.db
 Desktop.ini
 
-# Project specific
-*.pkl
-*.pt
-*.pth
-models/
-data/raw/
-*.csv
-*.xlsx
-*.xls
-notebooks/__pycache__/
-.ipynb_checkpoints/
-*.ipynb
 
 # Build outputs
 dist/

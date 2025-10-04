@@ -9,6 +9,16 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![CI/CD](https://github.com/yourusername/ExoNeural/actions/workflows/ci.yml/badge.svg)](https://github.com/yourusername/ExoNeural/actions/workflows/ci.yml)
 
+---
+
+## 🌍 Live Demo
+🔗 [Try ExoNeural Online](https://exoneuralapp2.netlify.app/)
+
+![ExoNeural Demo](Gif/Gif.gif)
+
+---
+
+
 ## 🌟 Features
 
 - **AI-Powered Detection**: Advanced machine learning models (LightGBM, XGBoost, Random Forest) for exoplanet classification
