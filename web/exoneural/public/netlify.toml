@@ -1,0 +1,7 @@
+[[redirects]]
+  # This rule ensures that all paths (/*) are routed to index.html
+  # This is necessary for client-side routing in single-page applications (React, Vue, Angular)
+  from = "/*"
+  to = "/index.html"
+  # status=200 means the redirect is handled transparently without the user seeing the URL change.
+  status = 200
